@@ -8,17 +8,23 @@ This script uses the [ChatGPT](https://github.com/acheong08/ChatGPT) library to 
 
 To use this script, first install the necessary dependencies by running:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 You will also need to put your [session_token](https://github.com/acheong08/ChatGPT/wiki/Setup) in youtube.py:
 
-```config = {
+```
+config = {
       "session_token": "<SESSION_TOKEN>",
-  }```
+  }
+```
 
 Next, provide a YouTube video URL as a command line argument when running the script:
 
-```python script.py https://www.youtube.com/watch?v=VIDEO_ID```
+```
+python script.py https://www.youtube.com/watch?v=VIDEO_ID
+```
 
 
 The summary will be printed to the command line.
