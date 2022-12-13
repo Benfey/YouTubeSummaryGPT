@@ -9,7 +9,11 @@ This script uses the [ChatGPT](https://github.com/acheong08/ChatGPT) library to 
 Input: [What is Consciousness? (Vsauce)](https://www.youtube.com/watch?v=qjfaoe847qQ)
 
 ```
-The text discusses the concept of consciousness, particularly the idea that it is subjective and difficult to define. The text also mentions anosognosia, a neurological disorder where individuals are unable to recognize their own disabilities. The text suggests that this disorder may be related to consciousness, and raises the question of whether a person's consciousness can be transferred to another body. The text also mentions Cleverbot, a website where users can interact with a chatbot, and raises the question of whether the chatbot has its own inner life or consciousness. Overall, the text suggests that there are many unanswered questions about consciousness and that it is a complex and mysterious phenomenon.
+The text discusses the concept of consciousness, particularly the idea that it is subjective and difficult to define.
+The text also mentions anosognosia, a neurological disorder where individuals are unable to recognize their own disabilities.
+The text suggests that this disorder may be related to consciousness, and raises the question of whether a person's consciousness can be transferred to another body.
+The text also mentions Cleverbot, a website where users can interact with a chatbot, and raises the question of whether the chatbot has its own inner life or consciousness.
+Overall, the text suggests that there are many unanswered questions about consciousness and that it is a complex and mysterious phenomenon.
 ```
 
 ## Usage
